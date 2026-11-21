@@ -1,2 +1,2 @@
-# NetShield-ACX_XGboost
+# NetShield-ACS_XGboost
 Machine learning-based network intrusion detection using XGBoost and CICIDS2017 dataset
