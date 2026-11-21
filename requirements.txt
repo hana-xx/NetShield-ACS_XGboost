@@ -1,0 +1,15 @@
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn>=1.6
+xgboost>=3.0
+lightgbm>=4.0
+imbalanced-learn
+optuna
+shap
+matplotlib
+seaborn
+joblib
+psutil
+kagglehub
